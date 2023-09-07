@@ -10,11 +10,11 @@
 
 ## How do I download this?
 
-- Scroll up and look for the green 'Code' button, and click "Download ZIP". Once it is done downloading, extract the files wherever you want, and you are good to go.
+- Scroll up and look for the green 'Code' button, and click "Download ZIP". Once it is done downloading, extract the files wherever you want, and you are good to go. You do not need to have Python installed or use any pip commands to get this running. Just download and go.
 
 ## How do I use this?
 
-- Easy. Follow the steps in ["How do I download this?"](https://github.com/Bpsherwo/HITB#how-do-i-download-this), run the HITB.exe, enter in the Gamertags of the participants in the left column, enter each players' CSR rating in the corresponding right column, and click Generate Teams. The program will find the most ideal balanced team combination it can find, and print the teams at the bottom of the window along with the average CSR of each team. Tell the players to divide themselves (or if you can, do it manually) into their teams, and go.
+- Easy. Follow the steps in ["How do I download this?"](https://github.com/Bpsherwo/HITB#how-do-i-download-this), run the HITB.exe (if you are prompted with a Windows Security alert, click "More Info" -> "Run anyway"), enter in the Gamertags of the participants in the left column, enter each players' CSR rating in the corresponding right column, and click Generate Teams. The program will find the most ideal balanced team combination it can find, and print the teams at the bottom of the window along with the average CSR of each team. Tell the players to divide themselves (or if you can, do it manually) into their teams, and go.
 
 ## How do I know this executable is safe to run on my computer?
 
