@@ -8,13 +8,13 @@
 
 - In Custom Games lobbies that play minigames or party modes, this is not necessary (unless it is?). But if you are a host/organizer that runs Competitive Custom Games or Competitive Tournaments with no pre-set or pre-organized teams, this tool is perfect. Whether you are playing, watching, or commentating, doing so with ideally balanced teams is more fun and enjoyable for everyone involved.
 
-## How do I use this?
-
-- Easy. Run the HITB.exe, enter in the Gamertags of the participants in the left column, enter each players' CSR rating in the corresponding right column, and click Generate Teams. The program will find the most ideal balanced team combination it can find, and print the teams at the bottom of the window along with the average CSR of each team. Tell the players to divide themselves (or if you can, do it manually) into their teams, and go.
-
 ## How do I download this?
 
-- Scroll up and look for the green '<> Code' button, and click "Download ZIP". Once it is done downloading, extract the files wherever you want, and you are good to go.
+- Scroll up and look for the green 'Code' button, and click "Download ZIP". Once it is done downloading, extract the files wherever you want, and you are good to go.
+
+## How do I use this?
+
+- Easy. Follow the steps in ["How do I download this?"](https://github.com/Bpsherwo/HITB#how-do-i-download-this), run the HITB.exe, enter in the Gamertags of the participants in the left column, enter each players' CSR rating in the corresponding right column, and click Generate Teams. The program will find the most ideal balanced team combination it can find, and print the teams at the bottom of the window along with the average CSR of each team. Tell the players to divide themselves (or if you can, do it manually) into their teams, and go.
 
 ## How do I know this executable is safe to run on my computer?
 
