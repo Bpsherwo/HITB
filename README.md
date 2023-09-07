@@ -19,7 +19,7 @@
 ## How do I know this executable is safe to run on my computer?
 
 - The code is 100% open source and readable on this repository. Everything you see in the 'src' folder is the entire program from top to bottom.
-- To be even more transparent, the executable is simply the 'HITB.py' script run through pyinstaller via the following CLI prompt:
+- To be even more transparent, the executable is simply the 'balancer.py' script run through pyinstaller via the following CLI prompt:
 
 *pyinstaller --onefile -w --add-data "src;src" --icon=C:\HITB_v1.0\HITB\src\observerteamico.ico src\HITB.py*
 
