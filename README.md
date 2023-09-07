@@ -14,7 +14,7 @@
 
 ## How do I use this?
 
-- Easy. Follow the steps in ["How do I download this?"](https://github.com/Bpsherwo/HITB#how-do-i-download-this), run the HITB.exe (if you are prompted with a Windows Security alert, click "More Info" -> "Run anyway"), enter in the Gamertags of the participants in the left column, enter each players' CSR rating in the corresponding right column, and click Generate Teams. The program will find the most ideal balanced team combination it can find, and print the teams at the bottom of the window along with the average CSR of each team. Tell the players to divide themselves (or if you can, do it manually) into their teams, and go.
+- Easy. Follow the steps in ["How do I download this?"](https://github.com/Bpsherwo/HITB#how-do-i-download-this), run the HITB.exe (if you are prompted with a Windows Security alert, click "More Info" -> "Run anyway"), enter in the Gamertags of the participants in the left column, enter each players' CSR rating in the corresponding right column, and click Generate Teams. The program will find the most ideal balanced team combination it can find, and print the teams at the bottom of the window along with the average CSR of each team. Tell the players to divide themselves (or if you can, do it manually) into their teams, and go. [Here is a video demonstration.](https://www.youtube.com/watch?v=Ip0-3L2hEtw)
 
 ## How do I know this executable is safe to run on my computer?
 
